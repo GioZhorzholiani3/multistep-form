@@ -1,6 +1,6 @@
 import { ErrorMessage, Field } from "formik";
 import { FormWrapper } from "./FormWrapper";
-import classes from "./AddressForm.module.css";
+import classes from "../shared/Error.module.css";
 
 const AddressForm = () => {
   return (

@@ -1,6 +1,6 @@
 import { Field, ErrorMessage } from "formik";
 import { FormWrapper } from "./FormWrapper";
-import classes from "./UserForm.module.css";
+import classes from "../shared/Error.module.css";
 
 const UserForm = () => {
   return (
